@@ -1,0 +1,30 @@
+[submodule "externals/Catch"]
+	path = externals/Catch
+	url = https://github.com/philsquared/Catch
+[submodule "externals/Eigen"]
+	path = externals/Eigen
+	url = https://github.com/eigenteam/eigen-git-mirror.git
+[submodule "externals/REFPROP-headers"]
+	path = externals/REFPROP-headers
+	url = https://github.com/CoolProp/REFPROP-headers.git
+[submodule "externals/FindMathematica"]
+	path = externals/FindMathematica
+	url = https://github.com/sakra/FindMathematica
+[submodule "externals/msgpack-c"]
+	path = externals/msgpack-c
+	url = https://github.com/msgpack/msgpack-c
+[submodule "externals/IF97"]
+	path = externals/IF97
+	url = https://github.com/CoolProp/IF97
+[submodule "externals/rapidjson"]
+	path = externals/rapidjson
+	url = https://github.com/miloyip/rapidjson.git
+[submodule "externals/cppformat"]
+	path = externals/cppformat
+	url = https://github.com/cppformat/cppformat.git
+[submodule "externals/ExcelAddinInstaller"]
+	path = externals/ExcelAddinInstaller
+	url = https://github.com/CoolProp/ExcelAddinInstaller.git
+[submodule "externals/pybind11"]
+	path = externals/pybind11
+	url = https://github.com/pybind/pybind11.git
